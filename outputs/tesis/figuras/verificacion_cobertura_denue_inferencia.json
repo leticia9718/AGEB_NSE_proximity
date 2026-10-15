@@ -1,0 +1,27 @@
+{
+  "N/D estable (núcleo)": {
+    "total": 2695,
+    "con_denue": 658,
+    "pct": 24.4
+  },
+  "Grupo C (sin registro AMAI)": {
+    "total": 2384,
+    "con_denue": 963,
+    "pct": 40.4
+  },
+  "Grupo A — N/D": {
+    "total": 40,
+    "con_denue": 0,
+    "pct": 0.0
+  },
+  "Grupo A — sin registro AMAI": {
+    "total": 71,
+    "con_denue": 0,
+    "pct": 0.0
+  },
+  "TOTAL": {
+    "total": 5190,
+    "con_denue": 1621,
+    "pct": 31.2
+  }
+}

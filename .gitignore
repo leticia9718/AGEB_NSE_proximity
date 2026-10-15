@@ -1,0 +1,8 @@
+# Por ahora solo se versionan las figuras del flujo final; el resto se agrega después.
+/*
+!/.gitignore
+!/outputs/
+/outputs/*
+!/outputs/tesis/
+/outputs/tesis/*
+!/outputs/tesis/figuras/
